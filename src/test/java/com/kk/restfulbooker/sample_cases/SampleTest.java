@@ -1,4 +1,4 @@
-package com.kk.restful_booker.sample_cases;
+package com.kk.restfulbooker.sample_cases;
 
 import base_classes.RestfulBookerBaseClass;
 import org.slf4j.Logger;

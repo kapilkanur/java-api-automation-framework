@@ -27,3 +27,4 @@ replay_pid*
 /.idea/
 /java-api-automation-framework.iml
 /target/
+.DS_Store

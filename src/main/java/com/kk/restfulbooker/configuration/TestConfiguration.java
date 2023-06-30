@@ -1,4 +1,4 @@
-package com.kk.restful_booker.configuration;
+package com.kk.restfulbooker.configuration;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
