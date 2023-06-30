@@ -5,4 +5,4 @@
  * @author Kapil
  * @version 1.0
  */
-package com.kk.restful_booker.execution;
+package com.kk.restfulbooker.execution;
